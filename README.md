@@ -6,7 +6,7 @@
 # What is crud in Laravel
 CRUD stands for Create, Read, Update, and Delete which used to performed the database operations.
 
-![laravelcrud](https://github.com/jb-shivamgoyal/laravelcrud/assets/122268172/5f2e6aba-409c-4d55-9a00-ec5ad1738f28)
+<img width="1787" alt="Screenshot 2023-08-04 at 11 00 10 AM" src="https://github.com/jb-shivamgoyal/laravelcrud/assets/122268172/0435c0ba-bc43-413a-9774-fcb6ed08a0c4">
 
 ## On Adding new row in our data
 
